@@ -1,0 +1,24 @@
+{
+  "name": "python_aws_serverless_tutorial",
+  "version": "1.0.0",
+  "description": "Repository containing codes on my first AWS project (REST API on Python using Flask)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JWiryo/python_aws_serverless_tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JWiryo/python_aws_serverless_tutorial/issues"
+  },
+  "homepage": "https://github.com/JWiryo/python_aws_serverless_tutorial#readme",
+  "devDependencies": {
+    "serverless-python-requirements": "^4.1.1",
+    "serverless-wsgi": "^1.4.9"
+  }
+}
